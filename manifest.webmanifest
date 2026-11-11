@@ -1,0 +1,19 @@
+{
+  "name": "Drixx Work",
+  "short_name": "Drixx Work",
+  "description": "Flyers, courses et livraisons : suivi GPS, gains et tickets.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "categories": ["productivity", "business"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
